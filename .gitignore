@@ -1,0 +1,12 @@
+
+app.config
+*.vsidx
+*.lock
+.vs/ArduinoUnity/v17/.suo
+*.csproj
+*.user
+*.sln
+obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+obj/Debug/ArduinoUnity.csproj.AssemblyReference.cache
+obj/Debug/ArduinoUnity.csproj.FileListAbsolute.txt
+*.cache
