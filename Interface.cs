@@ -93,7 +93,7 @@ namespace Lib
             } 
             else
             {
-                return "Nothing Read.";
+                return "Nothing Read. Is the port open?";
             }
         }
 
